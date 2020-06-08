@@ -1,0 +1,6 @@
+,field,precision,recall,f score
+0,total accuracy:,71.42857142857143,83.33333333333334,76.92307692307692
+1,Party_one,66.66666666666666,100.0,80.0
+2,Party_Two,100.0,100.0,100.0
+3,start_date,100.0,100.0,100.0
+4,Renewal_Notice,0.0,0.0,0.0
